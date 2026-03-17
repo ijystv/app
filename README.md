@@ -1,2 +1,5 @@
-爱家影视
-免费、无广告、简捷、流畅的电视影视软件。拥有海量影视资源，支持多种设备使用，让您畅享高清流畅的电视观影服务,什么电影都能看-新片-大片-随便看-野草口令5835
+# Welcome to ijystv App
+
+Visit our website: [ijys.tv](https://ijys.tv)
+
+![App Screenshot](path/to/app/screenshot.png)
