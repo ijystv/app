@@ -6,3 +6,5 @@
 《支持电视+手机+盒子+投影仪》
 
 ![App Screenshot](./screenshot.png)
+
+网盘下载：https://www.123865.com/s/0cvGvd-z2smH?notoken=1
