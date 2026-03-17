@@ -1,5 +1,5 @@
-# Welcome to ijystv App
+# README
 
-Visit our website: [ijys.tv](https://ijys.tv)
+This is the updated README file.
 
-![App Screenshot](path/to/app/screenshot.png)
+![App Screenshot](./screenshot.png)
