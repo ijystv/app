@@ -1,0 +1,165 @@
+{
+  "wallpaper": "http://ceshi.xn--z7x900a.com/ppic/feimao.php",
+  "logo": "http://ceshi.xn--z7x900a.com/panda/0262.png",
+  "sites": [
+
+   {
+      "key": "mg",
+      "name": "主·Mg",
+      "playerType": 2,
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/主线3.js"
+    },
+{
+      "key": "qq",
+      "name": "主·Qq",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/主线1.js"
+    },
+    
+    
+
+
+    {
+      "key": "bl",
+      "name": "主·Bl",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/bili.js"
+    },
+
+  
+{"key":"qiyi",
+"name":"主·Qy",
+"playerType": 1,
+"type":3,
+"api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+"ext": "https://app.69mini.com/js/271.js"
+},
+
+
+    {
+      "key": "yk",
+      "name": "主·Yk",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/youku.js"
+    },
+    {
+      "key": "jp",
+      "name": "备·金牌",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://jp.69mzf.cn/api.php/app/"
+    },
+
+    {
+      "key": "华数",
+      "name": "主·Hs2K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://wa.69mzf.cn/api.php/app/"
+    },
+
+
+    {
+      "key": "无广告",
+      "name": "备·NB",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ld.69mzf.cn/api.php/app/"
+    },
+
+    {
+      "key": "天堂",
+      "name": "备·天堂",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://tt.69mini.com/api.php/app/"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "key": "push_agent",
+      "name": "开通会员解锁4K线路",
+      "type": 3,
+      "api": "csp_Push",
+      "playerType": "1",
+      "searchable": 0
+    }
+  ],
+
+
+
+  "parses": [
+    {
+      "name": "免费",
+      "type": 1,
+      "url": "https://jiexi.69mini.com/api/?key=c61fd55fa4bdfcd4b545e2d02abdc42a&url=",
+      "ext": {
+        "flag": [
+          "dyttm3u8",
+          "rym3u8",
+          "mtv",
+          "NBY",
+          "lzm3u8"
+        ]
+      }
+    }
+  ],
+  "flags": [
+          "dyttm3u8",
+          "rym3u8",
+          "qq.com",
+          "iqiyi",
+          "bilibili",
+          "mgtv",
+          "youku"
+        ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://103.236.72.179:5888/livee.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
