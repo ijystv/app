@@ -16,7 +16,7 @@
     },
     {
  "key": "qq",
-      "name": "官腾腾|4K①",
+      "name": "官┆腾讯视频|4K①",
       "playerType": 2,
       "type": 3,
       "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
@@ -24,7 +24,7 @@
     },
     {
  "key": "bl",
-      "name": "官┆哔哩┆4K",
+      "name": "官┆哔哩视频┆4K",
       "playerType": "1",
       "type": 3,
       "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
@@ -42,7 +42,7 @@
     },
     {
       "key": "csp_mgtv",
-      "name": "官┆果果┆4K",
+      "name": "官┆果果视频┆4K",
       "type": 3,
       "api": "csp_mgtv",
       "searchable": 1,
@@ -52,7 +52,7 @@
     },
     {
       "key": "csp-youku",
-      "name": "官┆优酷┆4K",
+      "name": "官┆优酷视频┆4K",
       "type": 3,
       "api": "csp_youku",
       "searchable": 1,
