@@ -1,12 +1,1 @@
-# 爱家影视APP---免费追剧
 
-官方网站：http://ijys.tv  
-野草口令CF6F
-小草口令CF6F
-
-可以百度搜索   爱家影视
-《支持电视+手机+盒子+投影仪》
-
-![App Screenshot](./screenshot.png)
-
-网盘下载：https://www.123865.com/s/0cvGvd-z2smH?notoken=1
