@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "首页┆豆瓣推荐",
+      "name": "首页┆豆瓣推荐|app.xm555.tv",
       "type": 3,
       "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -96,7 +96,52 @@
       "changeable": 1
     },
     {
-     
+     "key": "qq",
+      "name": "官┆腾讯视频|4K①",
+      "playerType": 2,
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/qq.js"
+    },
+    {
+ "key": "bl",
+      "name": "官┆哔哩视频┆4K",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/lib1/bili.js"
+    },
+    {
+      "key": "csp_iqiyi",
+      "name": "官┆奇艺视频┆4K",
+      "type": 3,
+      "api": "csp_iqiyi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    },
+    {
+      "key": "csp_mgtv",
+      "name": "官┆果果视频┆4K",
+      "type": 3,
+      "api": "csp_mgtv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    },
+    {
+      "key": "csp-youku",
+      "name": "官┆优酷视频┆4K",
+      "type": 3,
+      "api": "csp_youku",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
+    },
+    {
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
       "name": "嗷呜┃短剧",
       "key": "DjHggg",
