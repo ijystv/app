@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "💖首页┆豆瓣推荐|",
+      "name": "首页┆豆瓣推荐",
       "type": 3,
       "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
@@ -15,54 +15,9 @@
       "ext": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/douban.js"
     },
     {
- "key": "qq",
-      "name": "官┆腾讯视频|4K①",
-      "playerType": 2,
-      "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/js/qq.js"
-    },
-    {
- "key": "bl",
-      "name": "官┆哔哩视频┆4K",
-      "playerType": "1",
-      "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/lib1/bili.js"
-    },
-    {
-      "key": "csp_iqiyi",
-      "name": "官┆奇艺┆4K",
-      "type": 3,
-      "api": "csp_iqiyi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    },
-    {
-      "key": "csp_mgtv",
-      "name": "官┆果果视频┆4K",
-      "type": 3,
-      "api": "csp_mgtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    },
-    {
-      "key": "csp-youku",
-      "name": "官┆优酷视频┆4K",
-      "type": 3,
-      "api": "csp_youku",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    },
-    {
+ 
       "key": "柠檬22",
-      "name": "💖┆秒播┆4K💖",
+      "name": "秒播┆4K",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -71,7 +26,7 @@
     },
     {
       "key": "csp_Gz360",
-      "name": "💖┆瓜子┆蓝光💖",
+      "name": "瓜子┆4K",
       "type": 3,
       "timeout": 12,
       "searchable": 1,
@@ -80,7 +35,7 @@
     },
     {
       "key": "天1天",
-      "name": "💖┆天天┆蓝光💖",
+      "name": "天天┆4K",
       "type": 3,
       "jar": "https://raw.giteeusercontent.com/ijiatv/ijys/raw/master/Yoursmile.jar",
       "timeout": 12,
@@ -91,7 +46,7 @@
     },
     {
       "key": "csp_Jpys",
-      "name": "💖┆金牌┆蓝光💖",
+      "name": "金牌┆4K",
       "type": 3,
       "jar": "https://raw.giteeusercontent.com/ijiatv/ijys/raw/master/Yoursmile.jar",
       "timeout": 12,
@@ -102,7 +57,7 @@
     },
     {
       "key": "苹果",
-      "name": "💖┆苹果┆4K💖",
+      "name": "苹果┆4K",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "https://gitee.com/zhang-xinhai58/my/raw/master/kai.jar",
@@ -123,36 +78,16 @@
     },
     {
       "key": "新首发",
-      "name": "💖┆首发┆零八💖",
+      "name": "首发┆4K",
       "type": 3,
       "api": "csp_AppGet",
       "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
-      "key": "枫叶影视",
-      "name": "枫叶┃4K",
-      "type": 3,
-      "api": "csp_FengYe",
-      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/i41Pl4152ewj&pwd=cicx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.vip1949.com/"
-    },
-    {
-   
-      "key": "哔哩",
-      "name": "官┆哔哩视频┆4K",
-      "playerType": "1",
-      "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/lib1/bili.js"
-    },
-    {
-     
+  
       "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
-      "name": "橘子🍊4K",
+      "name": "橘子┆4K",
       "key": "线路14",
       "type": 3,
       "api": "csp_Woshinidie",
@@ -163,7 +98,7 @@
     {
      
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/zhoujck/config/main/jar/wuao.txt;md5;4c4f8a2ce645a5539405defe99d17fa3",
-      "name": "🔥嗷呜┃短剧",
+      "name": "嗷呜┃短剧",
       "key": "DjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
@@ -296,7 +231,7 @@
     },
     {
       "key": "华谊",
-      "name": "💖┆华谊┆4K💖",
+      "name": "华谊┆4K",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "https://gitee.com/zhang-xinhai58/my/raw/master/kai.jar",
@@ -317,7 +252,7 @@
     },
     {
       "key": "薯条",
-      "name": "💖┆薯条┆4K💖",
+      "name": "薯条┆4K",
       "type": 3,
       "api": "csp_AppDrama",
       "jar": "https://gitee.com/zhang-xinhai58/my/raw/master/kai.jar",
@@ -339,7 +274,7 @@
     {
      
       "key": "YunZhenXiang",
-      "name": "💖┆二七┆4K💖",
+      "name": "二七┆4K",
       "type": 3,
       "api": "csp_YunZhenXiang",
       "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
@@ -353,7 +288,7 @@
     },
     {
       "key": "csp_Wwys",
-      "name": "💖┆农民┆4K💖",
+      "name": "农民┆4K",
       "type": 3,
       "api": "csp_Wwys",
       "jar": "https://gitee.com/ijiatv/ijys/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
@@ -364,7 +299,7 @@
     },
     {
       "key": "永乐",
-      "name": "💖┆永乐┆4K💖",
+      "name": "永乐┆4K",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/ijiatv/ijys/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
@@ -381,51 +316,8 @@
     },
     {
      
-      "key": "bl",
-      "name": "官┆哔哩┆4K",
-      "playerType": "1",
-      "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/lib1/bili.js"
-    },
-    {
-      "key": "csp_iqiyi",
-      "name": "☀️┆奇艺┆4K",
-      "type": 3,
-      "api": "csp_iqiyi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    },
-    {
-      "key": "csp_mgtv",
-      "name": "☀️┆果果┆4K",
-      "type": 3,
-      "api": "csp_mgtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    },
-    {
-      "key": "csp-youku",
-      "name": "☀️┆优酷┆4K",
-      "type": 3,
-      "api": "csp_youku",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/TVBOX39/BOX/raw/master/官源.jar"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "官┆奇异┆4K",
-      "type": 3,
-      "api": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/drpy2.min.js",
-      "ext": "https://gitee.com/tianqi-service-center/qqtvv/raw/master/js/爱奇艺.js"
-    },
-    {
+
+
      
       "key": "360zy",
       "name": "飞龙┆收集",
